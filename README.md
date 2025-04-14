@@ -63,7 +63,7 @@ Run the assembler on one or more input files:
 * Flags: -ansi -Wall -pedantic -g
 
 ## 🧪 Testing
-To test the assembler’s error detection, use the provided `fpfail.as` file for first pass error presentation and `spfail.as` file for second pass error presentation.
+To test the assembler’s error detection, use the provided `fpfail.as` file for first pass error presentation and `spfail.as` file for second pass error presentation, and use the provided `success_test.as` for a succesful creating of the memory image of the assembler.
 
 ## 🔍 What I Learned
 * Writing an assembler from scratch in ANSI C
