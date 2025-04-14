@@ -75,6 +75,6 @@ To test the assembler’s error detection, use the provided fpfail.as file for f
 * Managing segmentation faults and memory safety
 * Designing modular and testable C code
 
-📬 Contact
+## 📬 Contact
 Feel free to reach out if you’d like to learn more or want to collaborate!
 📎 LinkedIn: https://www.linkedin.com/in/ran-yohanan/
