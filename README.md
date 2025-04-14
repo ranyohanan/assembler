@@ -54,8 +54,6 @@ Run the assembler on one or more input files:
 
 ```bash
 ./assembler file1 file2 ...
-
-./assembler file1 file2 ...
 ```
 
 ## 📌 Requirements
@@ -65,7 +63,7 @@ Run the assembler on one or more input files:
 * Flags: -ansi -Wall -pedantic -g
 
 ## 🧪 Testing
-To test the assembler’s error detection, use the provided fpfail.as file for first pass error presentation and spfail.as file for second pass error presentation.
+To test the assembler’s error detection, use the provided `fpfail.as` file for first pass error presentation and `spfail.as` file for second pass error presentation.
 
 ## 🔍 What I Learned
 * Writing an assembler from scratch in ANSI C
